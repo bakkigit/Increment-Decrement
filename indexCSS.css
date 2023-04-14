@@ -1,0 +1,30 @@
+.container{
+    padding-top: 10%;
+    display: flex;
+    justify-content: center;
+}
+
+.knapper{
+
+    padding-top: 1%;
+    display: flex;
+    justify-content: center;
+}
+
+#minus{
+    margin-right: 10px;
+    height: 40px;
+    width: 2%;
+}
+
+
+
+#plus{
+    height: 40px;
+    width: 2%;
+}
+
+input{
+    text-align: center;
+}
+
